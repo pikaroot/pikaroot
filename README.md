@@ -1,5 +1,5 @@
-<h2 align="left">㉿Hey, pikaroot here!</h2>
-<h4 align="left">Cyber Security Enthusiast | Mini Cryptographer | CTF Player</h4>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+mono&size=30&pause=1000&color=1BA7E9&center=true&vCenter=true&width=450&height=30&lines=pikaroot...;This+is+my+github+profile." alt="Typing SVG" /></a></p>
+<h3 align="center">Cyber Security Enthusiast | Mini Cryptographer | CTF Player</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
