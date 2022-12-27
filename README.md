@@ -46,9 +46,7 @@
 
 ![pikaroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaroot&theme=github_dark&show_icons=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pikaroot&theme=github-dark-blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaroot&layout=compact&theme=github_dark)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaroot&theme=github_dark)
 
 
 
