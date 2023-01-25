@@ -1,5 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+mono&size=25&pause=1000&color=1BA7E9&center=true&vCenter=true&width=550&height=40&lines=Hi,+I+am+pikaroot...;Cyber+Security+Enthusiast+|+CTF+Player" alt="Typing SVG" /></a></p>
 
+<div align='center'>
 <h3 align="center">📞Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/limweixun" target="blank">
@@ -46,9 +47,8 @@
 </a>
 </p>
 
-![pikaroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikaroot&theme=github_dark&show_icons=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pikaroot&theme=github-dark-blue)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikaroot&theme=github_dark&layout=compact)
-
-
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=pikaroot&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=pikaroot&theme=github-dark-blue&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikaroot&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+</div>
 
