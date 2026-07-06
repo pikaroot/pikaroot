@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/pikaroot/pikaroot/blob/main/images/brickwallguy.jpg" />
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo+mono&size=25&pause=1000&color=1BA7E9&center=true&vCenter=true&width=550&height=40&lines=Hi,+I+am+pikaroot...;Cyber+Security+Enthusiast+|+CTF+Player" alt="Typing SVG" /></a></p>
 
 <div align='center'>
